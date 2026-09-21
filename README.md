@@ -101,4 +101,4 @@ A second issue surfaced during batch processing: running detection back-to-back 
 
 ## License
 
-*(Add your license here — e.g. MIT, or match the base repo's license)*
+MIT License
